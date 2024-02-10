@@ -26,6 +26,3 @@ margin is not working
     ThemeToggle
 -> Progress in page
 -> Progress in layout
-
-
-okay
