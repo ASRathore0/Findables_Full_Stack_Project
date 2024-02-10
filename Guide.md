@@ -1,5 +1,5 @@
 # Time line
-till -> 29:00
+till -> 1:06:30
 
 # Issue 1 (resolved)
 
@@ -11,6 +11,7 @@ margin is not working
 
 ==========================
 
+# musharraf-1.1
 -> Bug solve
 -> Navbar setup
 -> Title
@@ -26,3 +27,14 @@ margin is not working
     ThemeToggle
 -> Progress in page
 -> Progress in layout
+===========================
+
+# musharraf-1.2
+-> Some bug fix
+-> Navbar enhance
+-> Toggle(light and dark mode)
+-> Mobile responsive
+-> Hamburger for mobile
+-> App post feature development and design
+-> Category component design also for mobile
+===========================
