@@ -38,3 +38,9 @@ margin is not working
 -> App post feature development and design
 -> Category component design also for mobile
 ===========================
+
+# musharraf-1.3
+-> Recent Posts
+-> cardList development and design
+-> Card design
+===========================
