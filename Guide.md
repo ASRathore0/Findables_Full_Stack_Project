@@ -1,5 +1,5 @@
 # Time line
-till -> 1:06:30
+till -> 1:15:00
 
 # Issue 1 (resolved)
 
