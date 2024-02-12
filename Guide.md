@@ -1,6 +1,14 @@
-# Time line
+# Saurav:
+
+-> Setup dependencies
+-> Created nextjs app
+-> Created navbar skeleton
+
+## Time line
 
 till -> 1:15:00
+
+---
 
 # Issue 1 (resolved)
 
@@ -48,3 +56,14 @@ ThemeToggle
 -> cardList development and design
 -> Card design
 ===========================
+
+# Saurav:
+
+-> Side Menu Component Design
+-> Pagination Button Design
+
+## Time line
+
+till -> 1:33:20
+
+---
