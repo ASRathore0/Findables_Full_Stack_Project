@@ -1,4 +1,5 @@
 # Time line
+
 till -> 1:15:00
 
 # Issue 1 (resolved)
@@ -12,24 +13,26 @@ margin is not working
 ==========================
 
 # musharraf-1.1
+
 -> Bug solve
 -> Navbar setup
 -> Title
 -> Component folder setup including:
-    AuthLinks
-    CardList
-    CategoryList
-    Featured
-    Footer
-    Menu
-    Navbar
-    Pagination
-    ThemeToggle
+AuthLinks
+CardList
+CategoryList
+Featured
+Footer
+Menu
+Navbar
+Pagination
+ThemeToggle
 -> Progress in page
 -> Progress in layout
 ===========================
 
 # musharraf-1.2
+
 -> Some bug fix
 -> Navbar enhance
 -> Toggle(light and dark mode)
@@ -40,6 +43,7 @@ margin is not working
 ===========================
 
 # musharraf-1.3
+
 -> Recent Posts
 -> cardList development and design
 -> Card design

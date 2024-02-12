@@ -1,4 +1,4 @@
-.container{
+.container {
     width: 40px;
     height: 20px;
     border-radius: 50px;
@@ -9,7 +9,7 @@
     position: relative;
 }
 
-.ball{
+.ball {
     width: 14px;
     height: 14px;
     border-radius: 50%;

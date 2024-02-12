@@ -1,19 +1,18 @@
-.container{
-
+.container {
 }
 
-.title{
-    margin: 50px 0px;   
+.title {
+    margin: 50px 0px;
 }
 
-.catagories{
+.catagories {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 20px;
 }
 
-.category{
+.category {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -24,54 +23,54 @@
     border-radius: 10px;
 }
 
-.category.style{
+.category.style {
     background-color: #57c4ff31;
 }
 
-.category.phone{
+.category.phone {
     background-color: #da85c731;
 }
 
-.category.key{
+.category.key {
     background-color: #57ff9731;
 }
 
-.category.documents{
+.category.documents {
     background-color: #e9ff5731;
 }
 
-.category.charger{
+.category.charger {
     background-color: #ff57d531;
 }
 
-.category.earphone{
+.category.earphone {
     background-color: #b957ff31;
 }
 
-.image{
+.image {
     border-radius: 50%;
 }
 
-@media screen and (max-width: 1280px){
-    .category{
+@media screen and (max-width: 1280px) {
+    .category {
         width: 20%;
     }
 }
 
-@media screen and (max-width: 1024px){
-    .category{
+@media screen and (max-width: 1024px) {
+    .category {
         width: 25%;
     }
 }
 
-@media screen and (max-width: 768px){
-    .category{
+@media screen and (max-width: 768px) {
+    .category {
         width: 45%;
     }
 }
 
-@media screen and (max-width: 640px){
-    .category{
+@media screen and (max-width: 640px) {
+    .category {
         width: 100%;
     }
 }
