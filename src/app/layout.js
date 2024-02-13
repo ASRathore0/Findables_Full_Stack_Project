@@ -22,11 +22,8 @@ export default function RootLayout({ children }) {
                             <div className="wrapper">
                                 <Navbar />
                                 {children}
-<<<<<<< HEAD
-                                <Footer/>
-=======
+
                                 <Footer />
->>>>>>> 7bfe109c0a6e6c8270c40e69c709a696777117a6
                             </div>
                         </div>
                     </ThemeProvider>
