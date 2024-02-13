@@ -1,8 +1,8 @@
-.link{
+.link {
     cursor: pointer;
 }
 
-.burger{
+.burger {
     width: 20px;
     height: 16px;
     flex-direction: column;
@@ -11,14 +11,14 @@
     display: none;
 }
 
-.line{
+.line {
     width: 100%;
     height: 2px;
     background-color: var(--textColor);
     /* border-radius: 50px; */
 }
 
-.responsiveMenu{
+.responsiveMenu {
     position: absolute;
     top: 100px;
     left: 0;
@@ -33,11 +33,11 @@
     font-size: 36px;
 }
 
-@media screen and (max-width:640px){
-    .burger{
+@media screen and (max-width: 640px) {
+    .burger {
         display: flex;
     }
-    .link{
+    .link {
         display: none;
     }
 }
