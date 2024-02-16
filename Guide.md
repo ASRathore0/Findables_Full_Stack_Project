@@ -69,4 +69,8 @@ till -> 1:33:20
 ---
 
 # Amit: 1.0 
+<<<<<<< HEAD
 
+=======
+ Hello guys from today onward 
+>>>>>>> amt
