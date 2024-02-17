@@ -69,6 +69,9 @@ till -> 1:33:20
 ---
 
 # Amit: 1.0 
- Hello guys from today onward 
 
- # testing 
+ till -> 1:42:40
+
+-> bug fixed 
+-> check once @media is correct or not   
+ 

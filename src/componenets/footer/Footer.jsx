@@ -5,13 +5,12 @@ import Link from 'next/link';
 
 const Footer = () =>{
     return(
-        <>
         <div className={styles.container}>
             <div className={styles.info}>
                 <div className={styles.logo}>
-                    <Image src="/logo.png" alt="logo" width={50} height={50} />
-                    <h1 className={styles.logoText}></Lamablog></h1>
-                </div>
+                    <Image src="/logo.png" alt="lama blog" width={50} height={50} />
+                 <h1 className={styles.logoText}>lamabloge</h1>
+                 </div>
                 <p className={styles.desc}>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -49,7 +48,6 @@ const Footer = () =>{
         </div>
     </div>
     
-);
+ );
 };
-
-export default Footer
+export default Footer;
