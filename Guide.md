@@ -75,3 +75,10 @@ till -> 1:33:20
 -> bug fixed 
 -> check once @media is correct or not   
  
+ # Ashfaque:
+ -> bug solve for making responsive design
+ -> bug solve in cardlist 
+ -> blog category page design
+ -> single post page design "but there is some error in figure for fixing" 
+ ## Timeline
+ till -> 1:51:00
