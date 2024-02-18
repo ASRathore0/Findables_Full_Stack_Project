@@ -98,4 +98,10 @@ till -> 1:51:00
 
 till -> 2:08:50
 
----
+# AMit 
+-> worked on write page
+-> There is an yarn bug showing in my pc 
+
+## Time line
+
+till -> 2:22:00
