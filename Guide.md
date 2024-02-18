@@ -68,17 +68,34 @@ till -> 1:33:20
 
 ---
 
-# Amit: 1.0 
+# Amit: 1.0
 
- till -> 1:42:40
+till -> 1:42:40
 
--> bug fixed 
--> check once @media is correct or not   
- 
- # Ashfaque:
- -> bug solve for making responsive design
- -> bug solve in cardlist 
- -> blog category page design
- -> single post page design "but there is some error in figure for fixing" 
- ## Timeline
- till -> 1:51:00
+-> bug fixed
+-> check once @media is correct or not
+
+# Ashfaque:
+
+-> bug solve for making responsive design
+-> bug solve in cardlist
+-> blog category page design
+-> single post page design "but there is some error in figure for fixing"
+
+## Timeline
+
+till -> 1:51:00
+
+===========================
+
+# Saurav:
+
+-> Fix: fixed error in Single Post Page Design
+-> Completed, Single Post Page Design
+-> Completed, Next.js Login Page Design
+
+## Time line
+
+till -> 2:08:50
+
+---
